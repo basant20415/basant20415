@@ -11,7 +11,7 @@
 </p> 
 
 - ✨ I'm a Software Engineer with a strong foundation in Embedded Linux
-- ✨ i took standard embedded system diploma in Edges For Training and embedded linux diploma in Bullet.Guru
+- ✨ i took a standard embedded system diploma in Edges For Training and embedded linux diploma in Bullet.Guru
 - ✨ i took an internship in SYNC INTERN'S involved developing java+mysql projects
 - ✨ i was member in iEEE and shoubra racing team
   
