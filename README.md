@@ -10,7 +10,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- ✨ I'm a Software Engineer with a strong foundation in Embedded Systems and a growing expertise in Embedded Linux
+- ✨ I'm a Software Engineer with a strong foundation in Embedded Linux
 - ✨ i took standard embedded system diploma in Edges For Training and embedded linux diploma in Bullet.Guru
 - ✨ i took an internship in SYNC INTERN'S involved developing java+mysql projects
 - ✨ i was member in iEEE and shoubra racing team
