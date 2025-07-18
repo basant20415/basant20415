@@ -19,7 +19,7 @@
 <a href="mailto:bassantehab50@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail%20-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### Graduation Project (Advanced Road Safety System ) :
-- ✨ GP Mentorship @Brightskies|sponsorship and mentorship from ITIDA & EGYPT IOT AND AI CHALLENGE &
+- ✨ GP Mentorship @Brightskies|sponsorship and mentorship from ITIDA & Egypt Iot and AI Challenge
 - Advanced Road Safety System is an AI-based embedded solution that detects road damage and informs other vehicles through V2V communication. It also sends reports to government agencies via V2C technology, and includes a web dashboard built with OpenStreetMap to display real-time markers of road issues across Egypt,This system runs on a custom Yocto Linux image.
 
 ### 🛠 &nbsp;Tech Stack
