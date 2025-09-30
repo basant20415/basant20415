@@ -9,8 +9,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- ✨Aspiring Software Engineer with a solid background in computer engineering and hands-on experience in Linux system programming and embedded Linux development. Proficient in developing applications in C, C++,     Java, and Python, with a focus on creating efficient and scalable software solutions. Passionate about continuous learning and eager to apply technical expertise and creativity to drive impactful software
-    engineering projects.
+- ✨Aspiring Software Engineer with a solid background in computer engineering and hands-on experience in Linux system programming and embedded Linux development. Proficient in developing applications in C, C++,      Java, and Python, with a focus on creating efficient and scalable software solutions. Passionate about continuous learning and eager to apply technical expertise and creativity to drive impactful software
+     engineering projects.
 - ✨ i contributed @ Girl Script Summer of Code (GSSOC) as a cpp developer and contributed in developing the first-ever C++ sdk for Appwrite platform.
 - ✨ i took an internship in codveda technologies involved developing C++ projects.
 - ✨ i took a standard embedded system diploma in Edges For Training and embedded linux diploma in Bullet.Guru.
