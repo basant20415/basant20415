@@ -105,10 +105,11 @@
 
 
 <!-- Development Tools -->
-![Graphical User Interface (GUI)](https://img.shields.io/badge/-GUI-05122A?style=flat&logo=qt)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+![Graphical User Interface (GUI)](https://img.shields.io/badge/-GUI-05122A?style=flat&logo=qt)&nbsp;
 
 
 
